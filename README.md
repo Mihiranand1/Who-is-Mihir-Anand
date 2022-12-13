@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh8340&label=Profile%20views&color=0e75b6&style=flat" alt="harsh8340" /> </p>
 
-- 📫 How to reach me **hm0976@srmist.edu.in
-- harshkushwaha159@gmail.com
-- Contact Me @ 8340634626**
-
-- ⚡ My technical skills are **Problem solving, Coding, Python, C++, Data Structures, Mathematics.**
+- ⚡ My technical skills are **Coding, Python, C++, Data Structures, Mathematics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
