@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm  Mihir Anand</h1>
 <h3 align="center">A passionate Computer Engineer & programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mihir Anand1 &label=Profile%20views&color=0e75b6&style=flat" alt="harsh8340" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MihirAnand1 &label=Profile%20views&color=0e75b6&style=flat" alt="harsh8340" /> </p>
 
 - ⚡ My technical skills are **Coding, Python, C++, Data Structures, Mathematics.**
 
@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh8340&show_icons=true&locale=en" alt="harsh8340" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mihir Anand1 &" alt="Mihir Anand1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirAnand1 &" alt="MihirAnand1" /></p>
