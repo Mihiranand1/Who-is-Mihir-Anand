@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm  Mihir Anand</h1>
 <h3 align="center">A passionate Computer Engineer & programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh8340&label=Profile%20views&color=0e75b6&style=flat" alt="harsh8340" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mihir Anand&label=Profile%20views&color=0e75b6&style=flat" alt="harsh8340" /> </p>
 
 - ⚡ My technical skills are **Coding, Python, C++, Data Structures, Mathematics.**
 
